@@ -9,7 +9,7 @@ Update
 This repository now includes subscription management, recurring billing, PDF invoice generation, and Admin Panel features.
 More exciting features are on the way!
 
-Sachin Bodare
+Sachin Shankar Bodare
 
 Introduction
 
